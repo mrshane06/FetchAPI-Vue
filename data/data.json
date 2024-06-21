@@ -1,0 +1,75 @@
+{
+    "aboutMe":"MY name is Keegan Shane Niekerk , and  I like what I like.",
+    "projects":[
+        {
+            "name":"Calculator",
+            "github":"link",
+            "vercel":"link",
+            "description":"WAABALABADUBDUB",
+            "image":"url"
+
+        },
+
+        {
+            "name":"Temperature Calculator",
+            "github":"link",
+            "vercel":"link",
+            "description":"WAABALABADUBDUB",
+            "image":"url"
+
+        },
+
+        {
+            "name":"BMI Calculator",
+            "github":"link",
+            "vercel":"link",
+            "description":"WAABALABADUBDUB",
+            "image":"url"
+
+        }
+    ],
+    "education":[
+        {
+            "HighSchool":"Modderdam high",
+            "College":"Life Choices Academy"
+        }
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "image":"url"
+        },
+        {
+            "name":"CSS",
+            "image":"url"
+        },
+        {
+            "name":"JavaScript",
+            "image":"url"
+        },
+        {
+            "name":"Bootstrap",
+            "image":"url"
+        },
+        {
+            "name":"Vue",
+            "image":"url"
+        },
+        {
+            "name":"Time Management",
+            "image":"url"
+        },
+        {
+            "name":"Computer skills",
+            "image":"url"
+        }
+    ],
+    "workExperience":[
+        {
+            "studying":"I am currently studying at Life Choices Academy"
+        }
+    ],
+    "Testimonials":[
+        
+    ]
+}
